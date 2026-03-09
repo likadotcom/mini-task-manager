@@ -1,2 +1,2 @@
-# mini-task-manager
+# Mini-task-manager
 ꨄ︎ Mini task manager made with python
